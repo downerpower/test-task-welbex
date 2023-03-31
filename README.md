@@ -3,7 +3,7 @@
 
 ## Languages and Tools 
 - JavaScript
-- React
+- ReactJS
 
 ## Installing dependencies
 ```
