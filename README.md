@@ -1,5 +1,9 @@
 # Welbex
-## деплой - https://welbex-downerpower.netlify.app/
+## Deploy - https://welbex-downerpower.netlify.app/
+
+## Languages and Tools 
+- JavaScript
+- React
 
 ## Installing dependencies
 ```
