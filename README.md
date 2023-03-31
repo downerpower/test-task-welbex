@@ -1,3 +1,13 @@
 # Welbex
-ссылка на деплой - https://welbex-downerpower.netlify.app/
+## деплой - https://welbex-downerpower.netlify.app/
+
+## Installing dependencies
+```
+npm install
+```
+
+## Running application
+```
+npm start
+```
 
